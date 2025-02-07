@@ -4,13 +4,11 @@
 public class SoftwareEngineer {
     
     private String name;
-    private String email;
     private List<String> role;
     private List<String> hobbies;
 
     public SoftwareEngineer() {
         this.name = "Renfei Gao";
-        this.email = "renfeigao00@gmail.com";
         this.role = List.of("Master Student at University of Ottawa, Software Developer Intern at Entrust");
         this.hobbies = List.of("Badminton", "Traveling", "Coding");
     }
@@ -26,24 +24,22 @@ public class SoftwareEngineer {
 }
 ```
 
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/HIBERNATE-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
 ![Spring Security](https://img.shields.io/badge/SPRINGSECURITY-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ### 🖥️ &nbsp;Cloud&Containerization
 
@@ -69,3 +65,6 @@ public class SoftwareEngineer {
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
+## 📫 Reach out to me on
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renfeigao/)
+[![gmail](https://img.shields.io/badge/GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renfeigao00@gmail.com)
