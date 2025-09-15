@@ -9,7 +9,7 @@ public class SoftwareEngineer {
 
     public SoftwareEngineer() {
         this.name = "Renfei Gao";
-        this.role = List.of("Master Student at University of Ottawa, Software Developer Intern at Entrust");
+        this.role = List.of("Junior System Developer at MPAC, Recent Master’s graduate from the University of Ottawa");
         this.hobbies = List.of("Badminton", "Traveling", "Coding");
     }
 
